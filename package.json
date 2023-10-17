@@ -1,0 +1,31 @@
+{
+  "name": "wherego_api",
+  "version": "1.0.0",
+  "description": "RESTFull API for WhereGO APP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhereGoNow/wherego_api.git"
+  },
+  "keywords": [
+    "restful",
+    "rest",
+    "api",
+    "vercel",
+    "json",
+    "server"
+  ],
+  "author": "Marco Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhereGoNow/wherego_api/issues"
+  },
+  "homepage": "https://github.com/WhereGoNow/wherego_api",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}
